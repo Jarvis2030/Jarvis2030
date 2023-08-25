@@ -2,9 +2,15 @@
 
 
 <div id = 'header' align = 'center'>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white"/>
-  <img src ='https://img.shields.io/badge/Github-black?&logo=GitHub&logoColor=white'>
-  <img src ='https://img.shields.io/badge/Leetcode-white?&logo=LeetCode&logoColor=orange'>
+  <a href = 'https://www.linkedin.com/in/lin-yuchun'>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href = 'https://github.com/Jarvis2030'>
+    <img src ='https://img.shields.io/badge/Github-black?&logo=GitHub&logoColor=white'>
+  </a>
+  <a href = 'https://leetcode.com/june9181628/'>
+    <img src ='https://img.shields.io/badge/Leetcode-white?&logo=LeetCode&logoColor=orange'>
+  </a>
 </div>
 
 ## 🙋‍♀️ About me
